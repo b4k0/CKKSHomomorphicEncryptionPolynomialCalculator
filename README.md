@@ -16,7 +16,7 @@
 ## Tools and Programming Language
 
 *  [Microsoft SEAL library](https://github.com/microsoft/SEAL) for CKKS scheme.
-*  Visual Studio Code
+*  Visual Studio 2019 with C++ CMake Tools for Windows
 *   **C++**
 
 ## Implementation
