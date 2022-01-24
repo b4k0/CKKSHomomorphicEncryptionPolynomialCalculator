@@ -18,3 +18,9 @@
 *  [Microsoft SEAL library](https://github.com/microsoft/SEAL) for CKKS scheme.
 *  Visual Studio Code
 *   **C++**
+
+## Implementation
+
+* Based on [4_ckks_basics.cpp](https://github.com/microsoft/SEAL/blob/main/native/examples/4_ckks_basics.cpp) of [Microsoft SEAL library](https://github.com/microsoft/SEAL)
+
+## Results
