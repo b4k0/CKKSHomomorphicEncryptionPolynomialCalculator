@@ -24,3 +24,5 @@
 * Based on [4_ckks_basics.cpp](https://github.com/microsoft/SEAL/blob/main/native/examples/4_ckks_basics.cpp) of [Microsoft SEAL library](https://github.com/microsoft/SEAL)
 
 ## Results
+
+![Results](https://user-images.githubusercontent.com/51766689/151003708-e115d9d3-5319-4cbf-a737-cc37bf6a3981.png)
